@@ -1,6 +1,6 @@
 ﻿namespace MXResolver
 {
-    partial class Service1
+    partial class MXResolverService
     {
         /// <summary> 
         /// Обязательная переменная конструктора.
